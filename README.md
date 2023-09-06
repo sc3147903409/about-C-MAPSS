@@ -1,3 +1,3 @@
 # about-C-MAPSS
-This file mainly recode my code about C-MAPSS
-The main task is use different model to predict the RUL.
+This file mainly recodes my code about C-MAPSS
+The main task is to use different models to predict the RUL.
